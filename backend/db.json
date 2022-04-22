@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Anderson de Sousa Soares",
+      "email": "professorandersonsousa@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "José Nascimento",
+      "email": "josénascimento@gmail.com",
+      "id": 2
+    }
+  ]
+}
